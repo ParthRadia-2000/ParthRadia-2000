@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParthRadia-2000
-- 👀 I’m interested in Sull Stack Web Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning and working on React.js, Node.js, Express.js, MongoDB etc.
 - 📫 https://www.linkedin.com/in/parth-radia-291135202/
 
